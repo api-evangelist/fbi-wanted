@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.fbi.gov/wanted/api
 common:
+  - type: DomainSecurity
+    url: security/fbi-wanted-domain-security.yml
   - type: Website
     url: https://www.fbi.gov/wanted/api
   - type: PublicAPIsListing
