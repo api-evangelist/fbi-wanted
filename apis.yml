@@ -39,7 +39,6 @@ apis:
   - name: FBI Wanted
     description: "Access information on the FBI Wanted program"
     humanURL: https://www.fbi.gov/wanted/api
-    baseURL: https://www.fbi.gov/wanted/api
     tags:
       - Government
     properties:
